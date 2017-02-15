@@ -17,3 +17,6 @@ $ jupyter-notebook
 ```
 
 3. Run notebook 'gcs analysis with keras.ipynb'
+
+## Referencial informations.
+- [ML with scikit-learn by Andreas Mueller,  @SciPy 2015](https://github.com/amueller/scipy_2015_sklearn_tutorial) recordings [No.1](https://www.youtube.com/watch?v=80fZrVMurPM) & [No.2](https://www.youtube.com/watch?v=Ud-FsEWegmA)
